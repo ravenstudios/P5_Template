@@ -17,8 +17,8 @@ function update(){
 
 
 function draw(){
+	background(51);
 
-	
 
 	update();
 }
